@@ -22,3 +22,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 *.jar
+
+spring-web-swagger2/.mvn
+spring-web-swagger2/.settings
+spring-web-swagger2/target
